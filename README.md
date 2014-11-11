@@ -1,4 +1,9 @@
+Status at wearfactal:
 This project still works but is not being actively developed. If you have any feature requests you will have to send them as a pull request.
+
+Status at this fork:
+This Project is activly in development trought Direkt SPEED Germany scince 2014!
+We will Improve it because own Usage you can send Issus and all related stuff directly to this Repository
 
 ## Information
 
