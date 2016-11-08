@@ -10,23 +10,23 @@
   },
   "dependencies": {
     "coffee-script": "^1.7.1",
-    "mongoskin": "^1.0.0",
-    "express": "^3.4.8",
+    "mongoskin": "^2.1.0",
+    "express": "^4.14.0",
     "vein": "^0.5.5",
-    "async": "^0.9.0",
+    "async": "^2.1.2",
     "mongo-ton": "^0.0.3",
     "ton": "^0.0.2",
     "uglify-js": "^2.4.15",
-    "mongodb": "^1.4.19"
+    "mongodb": "^2.2.11"
   },
   "optionalDependencies": {
     "pane": "^0.0.10"
   },
   "devDependencies": {
     "jaded": "^0.1.1",
-    "less": "^1.7.5",
-    "mocha": "^2.0.1",
-    "should": "^4.2.1"
+    "less": "^2.7.1",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
   },
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script",
