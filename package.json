@@ -26,7 +26,7 @@
     "jaded": "^0.1.1",
     "less": "^2.7.1",
     "mocha": "^3.1.2",
-    "should": "^11.1.1"
+    "should": "^11.1.2"
   },
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script",
