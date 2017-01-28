@@ -11,7 +11,7 @@
   "dependencies": {
     "coffee-script": "^1.7.1",
     "mongoskin": "^2.1.0",
-    "express": "^4.14.0",
+    "express": "^4.14.1",
     "vein": "^0.5.5",
     "async": "^2.1.2",
     "mongo-ton": "^0.0.3",
