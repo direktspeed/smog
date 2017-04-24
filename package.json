@@ -25,7 +25,7 @@
   "devDependencies": {
     "jaded": "^0.1.1",
     "less": "^2.7.1",
-    "mocha": "^3.1.2",
+    "mocha": "^3.3.0",
     "should": "^11.1.1"
   },
   "scripts": {
