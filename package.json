@@ -16,7 +16,7 @@
     "async": "^2.1.2",
     "mongo-ton": "^0.0.3",
     "ton": "^0.0.2",
-    "uglify-js": "^2.4.15",
+    "uglify-js": "^3.0.8",
     "mongodb": "^2.2.11"
   },
   "optionalDependencies": {
